@@ -1,0 +1,13 @@
+gmplot
+geoalchemy2
+shapely
+networkx
+utm
+gpxpy
+pyproj
+geopy
+numpy
+scipy
+sklearn
+pandas
+sqlalchemy

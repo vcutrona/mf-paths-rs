@@ -1,0 +1,329 @@
+-----------------PATH 0-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg30 ->SegLen: 74.7142487888 ->SegmentLabels: rock 
+SegName: seg104 ->SegLen: 55.6986175197 ->SegmentLabels: none 
+SegName: seg106 ->SegLen: 873.552740206 ->SegmentLabels: none 
+SegName: seg122 ->SegLen: 1096.30876201 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 1-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg30 ->SegLen: 74.7142487888 ->SegmentLabels: rock 
+SegName: seg105 ->SegLen: 103.674279546 ->SegmentLabels: rock 
+SegName: seg106 ->SegLen: 873.552740206 ->SegmentLabels: none 
+SegName: seg122 ->SegLen: 1042.08428329 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 2-----------------
+Length: 3575.69468624
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg5 ->SegLen: 27.6682340315 ->SegmentLabels: dirt woodland 
+SegName: seg8 ->SegLen: 40.0162793899 ->SegmentLabels: none 
+------------------------------------------
+
+-----------------PATH 3-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg5 ->SegLen: 27.6682340315 ->SegmentLabels: dirt woodland 
+SegName: seg9 ->SegLen: 462.281123291 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 4-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg7 ->SegLen: 72.3673051451 ->SegmentLabels: dirt woodland 
+SegName: seg122 ->SegLen: 436.340019254 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 5-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg7 ->SegLen: 72.3673051451 ->SegmentLabels: dirt woodland 
+SegName: seg123 ->SegLen: 420.139533348 ->SegmentLabels: asphalt 
+------------------------------------------
+
+-----------------PATH 6-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg98 ->SegLen: 632.556884559 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 7-----------------
+Length: 3603.67583974
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg90 ->SegLen: 1462.8956773 ->SegmentLabels: none 
+SegName: seg94 ->SegLen: 905.061961223 ->SegmentLabels: dirt woodland 
+SegName: seg50 ->SegLen: 9.54573898611 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 8-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg90 ->SegLen: 1462.8956773 ->SegmentLabels: none 
+SegName: seg94 ->SegLen: 905.061961223 ->SegmentLabels: dirt woodland 
+SegName: seg75 ->SegLen: 450.679748014 ->SegmentLabels: none 
+------------------------------------------
+
+-----------------PATH 9-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg117 ->SegLen: 187.518130692 ->SegmentLabels: none 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg120 ->SegLen: 403.137551249 ->SegmentLabels: dirt woodland 
+SegName: seg110 ->SegLen: 1280.29994234 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 10-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg117 ->SegLen: 187.518130692 ->SegmentLabels: none 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg121 ->SegLen: 431.17536491 ->SegmentLabels: woodland rock 
+SegName: seg110 ->SegLen: 1250.350107 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 11-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg118 ->SegLen: 289.597602179 ->SegmentLabels: rock 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg120 ->SegLen: 403.137551249 ->SegmentLabels: dirt woodland 
+SegName: seg110 ->SegLen: 1177.99400735 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 12-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 245.647254299 ->SegmentLabels: asphalt 
+SegName: seg109 ->SegLen: 134.772663215 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg118 ->SegLen: 289.597602179 ->SegmentLabels: rock 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg121 ->SegLen: 431.17536491 ->SegmentLabels: woodland rock 
+SegName: seg110 ->SegLen: 1151.50479119 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 13-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg30 ->SegLen: 74.7142487888 ->SegmentLabels: rock 
+SegName: seg104 ->SegLen: 55.6986175197 ->SegmentLabels: none 
+SegName: seg106 ->SegLen: 873.552740206 ->SegmentLabels: none 
+SegName: seg122 ->SegLen: 1628.55191765 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 14-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg30 ->SegLen: 74.7142487888 ->SegmentLabels: rock 
+SegName: seg105 ->SegLen: 103.674279546 ->SegmentLabels: rock 
+SegName: seg106 ->SegLen: 873.552740206 ->SegmentLabels: none 
+SegName: seg122 ->SegLen: 1582.39124533 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 15-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg5 ->SegLen: 27.6682340315 ->SegmentLabels: dirt woodland 
+SegName: seg9 ->SegLen: 1031.56649702 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 16-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg7 ->SegLen: 72.3673051451 ->SegmentLabels: dirt woodland 
+SegName: seg122 ->SegLen: 952.851876628 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 17-----------------
+Length: 3995.9459731
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg7 ->SegLen: 72.3673051451 ->SegmentLabels: dirt woodland 
+SegName: seg123 ->SegLen: 971.97969189 ->SegmentLabels: asphalt 
+SegName: seg77 ->SegLen: 5.63265271168 ->SegmentLabels: dirt 
+------------------------------------------
+
+-----------------PATH 18-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg6 ->SegLen: 131.685935435 ->SegmentLabels: none 
+SegName: seg7 ->SegLen: 72.3673051451 ->SegmentLabels: dirt woodland 
+SegName: seg123 ->SegLen: 971.97969189 ->SegmentLabels: asphalt 
+SegName: seg112 ->SegLen: 9.39706769799 ->SegmentLabels: none 
+------------------------------------------
+
+-----------------PATH 19-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg98 ->SegLen: 881.128924482 ->SegmentLabels: dirt 
+SegName: seg3 ->SegLen: 303.665342705 ->SegmentLabels: none 
+------------------------------------------
+
+-----------------PATH 20-----------------
+Length: 3725.04310675
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg29 ->SegLen: 696.786579657 ->SegmentLabels: none 
+SegName: seg31 ->SegLen: 522.334907573 ->SegmentLabels: none 
+SegName: seg95 ->SegLen: 429.183568575 ->SegmentLabels: dirt 
+SegName: seg58 ->SegLen: 432.385517479 ->SegmentLabels: woodland 
+SegName: seg59 ->SegLen: 69.4612018676 ->SegmentLabels: none 
+SegName: seg98 ->SegLen: 881.128924482 ->SegmentLabels: dirt 
+SegName: seg97 ->SegLen: 29.6337943493 ->SegmentLabels: rock 
+------------------------------------------
+
+-----------------PATH 21-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg91 ->SegLen: 410.176235473 ->SegmentLabels: none 
+SegName: seg90 ->SegLen: 1462.8956773 ->SegmentLabels: none 
+SegName: seg94 ->SegLen: 905.061961223 ->SegmentLabels: dirt woodland 
+SegName: seg75 ->SegLen: 1061.50728783 ->SegmentLabels: none 
+------------------------------------------
+
+-----------------PATH 22-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg117 ->SegLen: 187.518130692 ->SegmentLabels: none 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg120 ->SegLen: 403.137551249 ->SegmentLabels: dirt woodland 
+SegName: seg110 ->SegLen: 977.109947388 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 23-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg117 ->SegLen: 187.518130692 ->SegmentLabels: none 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg121 ->SegLen: 431.17536491 ->SegmentLabels: woodland rock 
+SegName: seg110 ->SegLen: 946.884004329 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 24-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg118 ->SegLen: 289.597602179 ->SegmentLabels: rock 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg120 ->SegLen: 403.137551249 ->SegmentLabels: dirt woodland 
+SegName: seg110 ->SegLen: 860.809170288 ->SegmentLabels: woodland 
+------------------------------------------
+
+-----------------PATH 25-----------------
+Length: 4000
+SegName: seg108 ->SegLen: 253.952377297 ->SegmentLabels: asphalt 
+SegName: seg115 ->SegLen: 435.576309247 ->SegmentLabels: none 
+SegName: seg116 ->SegLen: 1671.40020481 ->SegmentLabels: dirt 
+SegName: seg118 ->SegLen: 289.597602179 ->SegmentLabels: rock 
+SegName: seg119 ->SegLen: 61.0219481589 ->SegmentLabels: rock woodland 
+SegName: seg121 ->SegLen: 431.17536491 ->SegmentLabels: woodland rock 
+SegName: seg110 ->SegLen: 832.957203243 ->SegmentLabels: woodland 
+------------------------------------------
+
